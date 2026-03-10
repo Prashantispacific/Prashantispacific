@@ -28,8 +28,7 @@ AI  ·  Systems  ·  Space
 
 [![Email](https://img.shields.io/badge/prashant616%40duck.com-111827?style=flat-square&logo=duckduckgo&logoColor=CC5500&labelColor=111827)](mailto:prashant616@duck.com)
 &ensp;
-[![LinkedIn](https://img.shields.io/badge/prashviz-111827?style=flat-square&logo=linkedin&logoColor=CC5500&labelColor=111827)](https://linkedin.com/in/prashviz)
-&ensp;
+
 [![HuggingFace](https://img.shields.io/badge/prash616-111827?style=flat-square&logo=huggingface&logoColor=CC5500&labelColor=111827)](https://huggingface.co/prash616)
 
 <br/>
